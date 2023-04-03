@@ -1,6 +1,6 @@
 package com.DeSerialization;
 
-public class ContainerType {
+public class Containers {
 
 	public static final byte UNKNOWN 	= 0;
 	public static final byte FIELD 		= 1;
