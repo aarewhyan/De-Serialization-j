@@ -1,6 +1,6 @@
 package com.DeSerialization;
 
-import static com.DeSerialization.SerializationUtils.*;
+import static com.DeSerialization.ReaderWriter.*;
 
 import java.nio.ByteBuffer;
 
