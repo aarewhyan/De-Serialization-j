@@ -1,6 +1,6 @@
 package com.DeSerialization;
 
-import static com.thecherno.raincloud.serialization.SerializationUtils.*;
+import static com.DeSerialization.ReaderWriter.*;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
